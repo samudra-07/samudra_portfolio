@@ -22,6 +22,6 @@ I am a Student, with expertise in C++,python,and solving problems. I am passiona
 
 ## Contact Me
 
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/samudragupta-barma-62a118245/?trk=opento_sprofile_details))
+- [LinkedIn](https://www.linkedin.com/in/samudragupta-barma-62a118245/?trk=opento_sprofile_details)
 - [Email](mailto:samudraguptabarma@gmail.com)
 
