@@ -10,7 +10,7 @@ A Python tool that analyzes and summarizes WhatsApp chat data.
 - **Technologies**: Python, Pandas, Numpy,gensim
 - **Description**: A tool that processes exported WhatsApp chat files and provides summaries, statistics, and insights.
 
-### [Project 2:Emotion Detection Using Facial Expression](https://github.com/samudra-07/Emotion-Recognition-from-Facial-Expressions-)
+### [Project 2:Emotion Detection Using Facial Expression](https://github.com/samudra-07/emotion-detection-using-facial-expression)
 The system utilizes computer vision and deep learning techniques to analyze facial expressions and predict the corresponding emotions.
 
 - **Technologies**: Python,JSON,OpenCV
